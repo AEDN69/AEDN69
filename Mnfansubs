@@ -1,0 +1,2305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mnfansubs.net</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            <img src="./img/logo-white.png" alt="">
+        </div>
+        <div class="menu">
+            <label for="check">
+                <div class="menu-item">
+                    <input type="checkbox" id="check">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <div class="drop">
+                        <div class="tom">
+                            <div class="a1">
+                                <input type="text" placeholder="Хайлт...">
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </label>
+            <label for="check1">
+            <div class="menu-item">
+                <input type="checkbox" id="check1">
+                <i class="fa-solid fa-film"></i>
+                <div class="drop2">
+                    <div class="tom">
+                        <div class="a1">
+                            <div class="b1">
+                                <i class="fa-solid fa-table-cells"></i>
+                            </div>
+                            <div class="c1">
+                                <p>Бүх төслүүд</p>
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                        <div class="a1">
+                            <div class="b1">
+                                <i class="fa-solid fa-table-cells"></i>
+                            </div>
+                            <div class="c1">
+                                <p>Бүх гаралтууд</p>
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                        <div class="a1">
+                            <div class="b1">
+                                <i class="fa-solid fa-clock"></i>
+                            </div>
+                            <div class="c1">
+                                <p>Орчуулж байгаа</p>
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                        <div class="a1">
+                            <div class="b1">
+                                <i class="fa-solid fa-file-video"></i>
+                            </div>
+                            <div class="c1">
+                                <p>Орчуулж дуусгасан</p>
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                        <div class="a1">
+                            <div class="b1">
+                                <i class="fa-solid fa-video"></i>
+                            </div>
+                            <div class="c1">
+                                <p>Анимэ кино</p>
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                        <div class="a1">
+                            <div class="b1">
+                                <i class="fa-solid fa-list-ol"></i>
+                            </div>
+                            <div class="c1">
+                                <p>Цуврал кино</p>
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                        <div class="a1">
+                            <div class="b1">
+                                <i class="fa-solid fa-video"></i>
+                            </div>
+                            <div class="c1">
+                                <p>Кино</p>
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </label>
+            <label for="check2">
+            <div class="menu-item">
+                <input type="checkbox" id="check2">
+                <i class="fa-solid fa-bars"></i>
+                <div class="drop3">
+                    <div class="tom">
+                        <div class="a1">
+                            <div class="b1">
+                                <i class="fa-solid fa-right-to-bracket"></i>
+                            </div>
+                            <div class="c1">
+                                <p>Нэвтрэх</p>
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                        <div class="a1">
+                            <div class="b1">
+                                <i class="fa-solid fa-heart"></i>
+                            </div>
+                            <div class="c1">
+                                <p>Хандивын нөхцөл</p>
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                        <div class="a1">
+                            <div class="b1">
+                                <i class="fa-solid fa-earth-americas"></i>
+                            </div>
+                            <div class="c1">
+                                <p>Холбоо барих</p>
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                        <div class="a1">
+                            <div class="b1">
+                                <i class="fa-solid fa-clock"></i>
+                            </div>
+                            <div class="c1">
+                                <p>Анимэ хуваарь</p>
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                        <div class="a1">
+                            <div class="b1">
+                                <i class="fa-solid fa-eye"></i>
+                            </div>
+                            <div class="c1">
+                                <p>Үзсэн гаргалт</p>
+                                <i class="fa-solid fa-angle-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </label>
+        </div>
+    </nav>
+    <div class="big">
+        <div class="deed">
+            <div class="a1">
+                <img src="./img/a1.jpg" alt="">
+                <div class="text">
+                    <p>Уан Пийс: 1016-р анги</p>
+                </div>
+            </div>
+            <div class="a1">
+                <img src="./img/a2.jpg" alt="">
+                <div class="text">
+                    <p>Ойлгомжгүй Ахарэн: 6-р анги</p>
+                </div>
+            </div>
+            <div class="a1">
+                <img src="./img/a3.jpg" alt="">
+                <div class="text">
+                    <p>Нана: 22-р анги</p>
+                </div>
+            </div>
+            <div class="a1">
+                <img src="./img/a4.jpg" alt="">
+                <div class="text">
+                    <p>Найзуудын тоглоом: 5-р анги</p>
+                </div>
+            </div>
+        </div>
+        <div class="dund">
+            <div class="a1">
+                <img src="./img/a5.jpg" alt="">
+                <div class="text">
+                    <p>Бамбайт баатрын мандалт: 30-р анги</p>
+                </div>
+            </div>
+            <div class="a1">
+                <img src="./img/a6.jpg" alt="">
+                <div class="text">
+                    <p>Зун цагийн дүрслэл: 3-р анги</p>
+                </div>
+            </div>
+            <div class="a1">
+                <img src="./img/a7.jpg" alt="">
+                <div class="text">
+                    <p>Ойлгомжгүй Ахарэн: 5-р анги</p>
+                </div>
+            </div>
+            <div class="a1">
+                <img src="./img/a8.jpg" alt="">
+                <div class="text">
+                    <p>Бурхны хот</p>
+                </div>
+            </div>
+        </div>
+        <div class="dood">
+            <div class="a1">
+                <img src="./img/a9.jpg" alt="">
+                <div class="text">
+                    <p>Хөөс</p>
+                </div>
+            </div>
+            <div class="a1">
+                <img src="./img/a10.jpg" alt="">
+                <div class="text">
+                    <p>Зун цагийн дүрслэл: 2-р анги</p>
+                </div>
+            </div>
+            <div class="a1">
+                <img src="./img/a11.jpg" alt="">
+                <div class="text">
+                    <p>Бүрэг Коми: 13-р анги</p>
+                </div>
+            </div>
+            <div class="a1">
+                <img src="./img/a12.jpg" alt="">
+                <div class="text">
+                    <p>Гадил Загас: 24-р анги</p>
+                </div>
+            </div>
+        
+        </div>
+        <div class="tsaash">
+            <div class="text">
+                Цааш нь
+            </div>
+        </div>
+        <div class="op">
+            <img src="./img/13.jpg" alt="">
+        </div>  
+        <div class="a1">
+            <div class="icon">
+                <i class="fa-solid fa-angle-right"></i>
+            </div>
+            <p>Дуусгасан анимэнууд</p>
+        </div>
+        <div class="b1">
+            <div class="c1">
+                <img src="./img/14.jpg" alt="">
+                <div class="text">
+                    <p>Токиогийн өшөө авагчид</p>
+                    <div class="text2">
+                        <p>2021</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/15.jpg" alt="">
+                <div class="text">
+                    <p>Кэнган Ашура</p>
+                    <div class="text2">
+                        <p>24 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/16.png" alt="">
+                <div class="text">
+                    <p>Харанхуй</p>
+                    <div class="text2">
+                        <p>2019</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/17.jpg" alt="">
+                <div class="text">
+                    <p>Бид үхдэл болсон</p>
+                    <div class="text2">
+                        <p>2022</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/18.png" alt="">
+                <div class="text">
+                    <p>Витчер</p>
+                    <div class="text2">
+                        <p>2019</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/19.jpg" alt="">
+                <div class="text">
+                    <p>Алуурчны хайр</p>
+                    <div class="text2">
+                        <p>12 Анги</p>
+                    </div>
+                </div>
+            </div>    
+        </div>
+        <div class="a2">
+            <div class="icon">
+                <i class="fa-solid fa-angle-right"></i>
+            </div>
+            <p>Орчуулж байгаа анимэнууд</p>
+        </div>
+        <div class="b2">
+            <div class="c1">
+                <img src="./img/20.png" alt="">
+                <div class="text">
+                    <p>Том Жерри хоёр</p>
+                    <div class="text2">
+                        <p>37 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/21.jpg" alt="">
+                <div class="text">
+                    <p>Зун цагийн дүрслэл</p>
+                    <div class="text2">
+                        <p>25 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/22.jpg" alt="">
+                <div class="text">
+                    <p>Бүж, бүж, балетчин</p>
+                    <div class="text2">
+                        <p>12 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/23.jpg" alt="">
+                <div class="text">
+                    <p>Найзуудын тоглоом</p>
+                    <div class="text2">
+                        <p>12 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/24.jpg" alt="">
+                <div class="text">
+                    <p>Бамбайт баатрын мандалт</p>
+                    <div class="text2">
+                        <p>38 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/25.jpg" alt="">
+                <div class="text">
+                    <p>Ойлгомжгүй Ахарэн</p>
+                    <div class="text2">
+                        <p>12 Анги</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="a3">
+            <div class="icon">
+                <i class="fa-solid fa-angle-right"></i>
+            </div>
+            <p>Анимэ кинонууд</p>
+        </div>
+        <div class="b3">
+            <div class="c1">
+                <img src="./img/26.jpg" alt="">
+                <div class="text">
+                    <p>2.22 Чи урагшилж (эс) чадна</p>
+                    <div class="text2">
+                        <p>2009</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/27.jpg" alt="">
+                <div class="text">
+                    <p>Хөөс</p>
+                    <div class="text2">
+                        <p>2022</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/28.jpg" alt="">
+                <div class="text">
+                    <p>Буудах салютыг доороос ажих уу? Хажуугаас харах уу?</p>
+                    <div class="text2">
+                        <p>2017</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/29.jpg" alt="">
+                <div class="text">
+                    <p>Секундэд 5 сантиметр</p>
+                    <div class="text2">
+                        <p>2007</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/30.jpg" alt="">
+                <div class="text">
+                    <p>3.33 Чи буцаж (эс) чадна</p>
+                    <div class="text2">
+                        <p>2012</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/31.jpg" alt="">
+                <div class="text">
+                    <p>Промейр</p>
+                    <div class="text2">
+                        <p>2019</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="a4">
+            <div class="icon">
+                <i class="fa-solid fa-angle-right"></i>
+            </div>
+            <p>Нэтфликсийн цуврал</p>
+        </div>
+        <div class="b4">
+            <div class="c1">
+                <img src="./img/32.jpg" alt="">
+                <div class="text">
+                    <p>Хилийн зурвас дээрх Алис</p>
+                    <div class="text2">
+                        <p>2020</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/33.jpg" alt="">
+                <div class="text">
+                    <p>Аркейн</p>
+                    <div class="text2">
+                        <p>9 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/34.png" alt="">
+                <div class="text">
+                    <p>Харанхуй</p>
+                    <div class="text2">
+                        <p>2017</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/35.png" alt="">
+                <div class="text">
+                    <p>Витчер</p>
+                    <div class="text2">
+                        <p>2019</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/36.jpg" alt="">
+                <div class="text">
+                    <p>Бид үхдэл болсон</p>
+                    <div class="text2">
+                        <p>2022</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/37.png" alt="">
+                <div class="text">
+                    <p>Миний нэр</p>
+                    <div class="text2">
+                        <p>2021</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="a5">
+            <div class="icon">
+                <i class="fa-solid fa-angle-right"></i>
+            </div>
+            <p>Найруулагч Шинкай Макотон цуглуулга</p>
+        </div>
+        <div class="b5">
+            <div class="c1">
+                <img src="./img/38.jpg" alt="">
+                <div class="text">
+                    <p>Тэнгэр цэлмүүлэгч охин</p>
+                    <div class="text2">
+                        <p>2019</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/39.jpg" alt="">
+                <div class="text">
+                    <p>Үүлсийн цаана, бидний амласан газар</p>
+                    <div class="text2">
+                        <p>2004</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/40.jpg" alt="">
+                <div class="text">
+                    <p>Үгсээр нахиалсан цэцэрлэг</p>
+                    <div class="text2">
+                        <p>2013</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/41.jpg" alt="">
+                <div class="text">
+                    <p>Секундэд 5 сантиметр</p>
+                    <div class="text2">
+                        <p>2007</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/42.jpg" alt="">
+                <div class="text">
+                    <p>Тэртээх оддын дуу хоолой</p>
+                    <div class="text2">
+                        <p>2002</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/43.jpg" alt="">
+                <div class="text">
+                    <p>Оддыг хөөх хүүхдүүд</p>
+                    <div class="text2">
+                        <p>2011</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="a6">
+            <div class="icon">
+                <i class="fa-solid fa-angle-right"></i>
+            </div>
+            <p>Найруулагч Хосода Маморүгийн цуглуулга</p>
+        </div>
+        <div class="b6">
+            <div class="c1">
+                <img src="./img/44.jpg" alt="">
+                <div class="text">
+                    <p>Цаг хугацаагаар аялагч охин</p>
+                    <div class="text2">
+                        <p>2006</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/45.jpg" alt="">
+                <div class="text">
+                    <p>Ирээдүйн Мираи</p>
+                    <div class="text2">
+                        <p>2018</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/46.jpg" alt="">
+                <div class="text">
+                    <p>Зуны дайн</p>
+                    <div class="text2">
+                        <p>2009</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/47.png" alt="">
+                <div class="text">
+                    <p>Жаал хүү ба Мангас</p>
+                    <div class="text2">
+                        <p>2015</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/48.jpg" alt="">
+                <div class="text">
+                    <p>Цаг хугацаагаар аялагч охин</p>
+                    <div class="text2">
+                        <p>2006</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/49.jpg" alt="">
+                <div class="text">
+                    <p>Ирээдүйн Мираи</p>
+                    <div class="text2">
+                        <p>2018</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="a7">
+            <div class="icon">
+                <i class="fa-solid fa-angle-right"></i>
+            </div>
+            <p>Найруулагч Кон Сатошигийн цуглуулга</p>
+        </div>
+        <div class="b7">
+            <div class="c1">
+                <img src="./img/50.jpg" alt="">
+                <div class="text">
+                    <p>Паприка</p>
+                    <div class="text2">
+                        <p>2006</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/51.jpg" alt="">
+                <div class="text">
+                    <p>Төгс төгөлдөр</p>
+                    <div class="text2">
+                        <p>1998</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/52.jpg" alt="">
+                <div class="text">
+                    <p>Мянганы жүжигчин эмэгтэй</p>
+                    <div class="text2">
+                        <p>2001</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/53.jpg" alt="">
+                <div class="text">
+                    <p>Токиогийн загалмайсан эцгүүд</p>
+                    <div class="text2">
+                        <p>2003</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/54.jpg" alt="">
+                <div class="text">
+                    <p>Паприка</p>
+                    <div class="text2">
+                        <p>2006</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/55.jpg" alt="">
+                <div class="text">
+                    <p>Төгс төгөлдөр</p>
+                    <div class="text2">
+                        <p>1998</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="a8">
+            <div class="icon">
+                <i class="fa-solid fa-angle-right"></i>
+            </div>
+            <p>Жибли цуглуулга</p>
+        </div>
+        <div class="b8">
+            <div class="c1">
+                <img src="./img/56.jpg" alt="">
+                <div class="text">
+                    <p>Чихиро сүнсний ертөнцөд очсон нь</p>
+                    <div class="text2">
+                        <p>2001</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/57.jpg" alt="">
+                <div class="text">
+                    <p>Дурсамж дахь Марние</p>
+                    <div class="text2">
+                        <p>2014</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/58.jpg" alt="">
+                <div class="text">
+                    <p>Хүж дэлхийн шастир</p>
+                    <div class="text2">
+                        <p>2006</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/59.png" alt="">
+                <div class="text">
+                    <p>Аяа болон шулам</p>
+                    <div class="text2">
+                        <p>2021</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/60.jpg" alt="">
+                <div class="text">
+                    <p>Өчигдөрхөн мэт</p>
+                    <div class="text2">
+                        <p>1991</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/61.jpg" alt="">
+                <div class="text">
+                    <p>Улаан яст мэлхий</p>
+                    <div class="text2">
+                        <p>2017</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="a9">
+            <div class="icon">
+                <i class="fa-solid fa-angle-right"></i>
+            </div>
+            <p>Шоонэн анимэ цуглуулга</p>
+        </div>
+        <div class="b9">
+            <div class="c1">
+                <img src="./img/62.jpg" alt="">
+                <div class="text">
+                    <p>Луут Бөмбөлөг</p>
+                    <div class="text2">
+                        <p>153 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/63.jpg" alt="">
+                <div class="text">
+                    <p>Юү☆Юү☆Хакүшо</p>
+                    <div class="text2">
+                        <p>112 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/64.jpg" alt="">
+                <div class="text">
+                    <p>Ангууч х Ангууч</p>
+                    <div class="text2">
+                        <p>148 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/65.jpg" alt="">
+                <div class="text">
+                    <p>Алуурчин гэрийн багш Реборн!</p>
+                    <div class="text2">
+                        <p>203 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/66.jpg" alt="">
+                <div class="text">
+                    <p>Уан Пийс</p>
+                    <div class="text2">
+                        <p>1000+ Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/67.jpg" alt="">
+                <div class="text">
+                    <p>Наруто: Хуй салхины домог</p>
+                    <div class="text2">
+                        <p>500 Анги</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="a10">
+            <div class="icon">
+                <i class="fa-solid fa-angle-right"></i>
+            </div>
+            <p>ЖоЖогийн цуглуулга</p>
+        </div>
+        <div class="b10">
+            <div class="c1">
+                <img src="./img/68.jpg" alt="">
+                <div class="text">
+                    <p>ЖоЖогийн хачирхалтай адал явдлууд: Ирмүүн аянчид</p>
+                    <div class="text2">
+                        <p>48 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/69.jpg" alt="">
+                <div class="text">
+                    <p>ЖоЖогийн хачирхалтай адал явдлууд: Чулуун далай</p>
+                    <div class="text2">
+                        <p>40 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/70.jpg" alt="">
+                <div class="text">
+                    <p>ЖоЖогийн хачирхалтай адал явдлууд: Алмааз Хагаршгүй</p>
+                    <div class="text2">
+                        <p>39 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/71.jpg" alt="">
+                <div class="text">
+                    <p>ЖоЖогийн хачирхалтай адал явдлууд: Алтан салхи</p>
+                    <div class="text2">
+                        <p>39 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/72.jpg" alt="">
+                <div class="text">
+                    <p>ЖоЖогийн хачирхалтай адал явдлууд</p>
+                    <div class="text2">
+                        <p>26 Анги</p>
+                    </div>
+                </div>
+            </div>
+            <div class="c1">
+                <img src="./img/73.jpg" alt="">
+                <div class="text">
+                    <p>ЖоЖогийн хачирхалтай адал явдлууд: Ирмүүн аянчид</p>
+                    <div class="text2">
+                        <p>48 Анги</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="tugsgul">
+        <div class="logo">
+            <div class="logo-item">
+                <i class="fa-brands fa-facebook-f"></i>
+            </div>
+            <div class="logo-item">
+                <i class="fa-brands fa-youtube"></i>
+            </div>
+            <div class="logo-item">
+                <i class="fa-brands fa-instagram"></i>
+            </div>
+        </div>
+    </div>
+    <div class="end">
+        <p>MNFansubs © 2007-2020</p>
+    </div>
+</body>
+</html>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CSS
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+Body{
+    background-color: #1d1d1d;
+}
+nav{
+    width: 100%;
+    height: 61px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #393939 ;
+    position: relative;
+
+}
+nav .logo{
+    width: 15%;
+    height: 100%;
+}
+nav .logo img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    margin-left: 10px;
+}
+nav .menu{
+    width: 10%;
+    height: 100%;
+    display: flex;
+}
+nav .menu label{
+    width: 33%;
+    height: 100%;
+}
+nav .menu label .menu-item{
+    width: 100%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left:1px solid #393939;
+}
+nav .menu label .menu-item i{
+    color: #666;
+    font-size: 18px;
+}
+nav .menu label .menu-item:hover i{
+    color: #00b3ff;
+}
+nav .menu label .menu-item .drop{
+    width: 375px;
+    height: 81.38px;
+    background-color: #00b3ff;
+    position: absolute;
+    top: 60px;
+    right: 0;
+    display: none;
+    z-index: 100;
+    border-top: 3px solid #00b3ff;
+}
+nav .menu label .menu-item .drop .tom{
+    width: 335px;
+    height: 41.38px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 20px;
+    display: flex;
+}
+nav .menu label .menu-item .drop .tom .a1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav .menu label .menu-item .drop .tom .a1 input{
+    width: 335px;
+    height: 41.38px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 20px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+#check{
+    display: none;
+}
+nav .menu label .menu-item #check:checked ~ .drop{
+    display: flex;
+}
+nav .menu label .menu-item .drop .tom .a1 i{
+    color: #222;
+    font-size: 18px;
+    padding-right: 10px;
+}
+nav .menu label .menu-item .drop .tom .a1 i:hover{
+    color: #1e87f0;
+}
+nav .menu label .menu-item .drop2{
+    width: 375px;
+    height: 399px;
+    background-color: #161616;
+    position: absolute;
+    top: 60px;
+    right: 0;
+    display: none;
+    z-index: 100;
+    border-top: 3px solid #00b3ff;
+}
+#check1{
+    display: none;
+}
+nav .menu label .menu-item #check1:checked ~ .drop2{
+    display: flex;
+}
+nav .menu label .menu-item .drop2 .tom{
+    width: 335px;
+    height: 356px;
+    padding: 20px;
+}
+nav .menu label .menu-item .drop2 .tom .a1{
+    width: 335px;
+    height: 51px;
+    display: flex;
+    align-items: center;
+    border-bottom:1px dashed rgba(204,204,204,0.2)
+}
+nav .menu label .menu-item .drop2 .tom .a1 .b1{
+    height: 50px;
+    width: 13.3%;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+nav .menu label .menu-item .drop2 .tom .a1 .b1 i{
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 16px;
+}
+nav .menu label .menu-item .drop2 .tom .a1:hover .b1 i{
+    color: #1e87f0;
+}
+nav .menu label .menu-item .drop2 .tom .a1 .c1{
+    width: 86.7%;
+    height: 50px;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav .menu label .menu-item .drop2 .tom .a1 .c1 p{
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+nav .menu label .menu-item .drop2 .tom .a1 .c1 i{
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 16px;
+    padding-right: 10px;
+}
+nav .menu label .menu-item .drop2 .tom .a1 .c1:hover i{
+    color: #1e87f0;
+}
+nav .menu label .menu-item .drop2 .tom .a1 .c1:hover p{
+    color: #1e87f0;
+}
+nav .menu label .menu-item .drop3{
+    width: 375px;
+    height: 297px;
+    background-color: #161616;
+    position: absolute;
+    top: 60px;
+    right: 0;
+    display: none;
+    z-index: 100;
+    border-top: 3px solid #00b3ff;
+}
+#check2{
+    display: none;
+}
+nav .menu label .menu-item #check2:checked ~ .drop3{
+    display: flex;
+}
+nav .menu label .menu-item:hover .drop3 .tom{
+    width: 335px;
+    height: 254px;
+    padding: 20px;
+}
+nav .menu label .menu-item .drop3 .tom .a1{
+    width: 335px;
+    height: 51px;
+    display: flex;
+    align-items: center;
+    border-bottom:1px dashed rgba(204,204,204,0.2)
+}
+nav .menu label .menu-item .drop3 .tom .a1 .b1{
+    height: 50px;
+    width: 13.3%;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+nav .menu label .menu-item .drop3 .tom .a1 .b1 i{
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 16px;
+}
+nav .menu label .menu-item .drop3 .tom .a1 .c1{
+    width: 86.7%;
+    height: 50px;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav .menu label .menu-item .drop3 .tom .a1 .c1 p{
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+nav .menu label .menu-item .drop3 .tom .a1 .c1 i{
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 16px;
+    padding-right: 10px;
+}
+nav .menu label .menu-item .drop3 .tom .a1:hover .b1 i{
+    color: #1e87f0;
+}
+nav .menu label .menu-item .drop3 .tom .a1 .c1:hover i{
+    color: #1e87f0;
+}
+nav .menu label .menu-item .drop3 .tom .a1 .c1:hover p{
+    color: #1e87f0;
+}
+.big{
+    width: 80%;
+    margin: auto;
+}
+.big .deed{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+.big .deed .a1{
+    width: 25%;
+    height: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    position: relative;
+}
+.big .deed .a1 .text{
+    position:absolute;
+    bottom:0 ;
+    top: 0;
+    right: 0;
+    left:0;
+    display: flex;
+    align-items: flex-end;  
+    background-image: linear-gradient(to top, rgba(0,0,0,0.7), rgba(255,255,255,0.1));
+    border-radius: 10px;
+}
+.big .deed .a1 .text p{
+    color: white;
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+}
+.big .deed .a1 .text:hover p{
+    color: #1e87f0;
+}
+.big .deed .a1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.big .dund{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+.big .dund .a1{
+    width: 25%;
+    height: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    position: relative;
+}
+.big .dund .a1 .text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    background-image: linear-gradient(to top, rgba(0,0,0,0.7), rgba(255,255,255,0.1));
+    border-radius: 10px;
+}
+.big .dund .a1 .text p{
+    color: white;
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+}
+.big .dund .a1 .text:hover p{
+    color: #1e87f0;
+}
+.big .dund .a1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.big .dood{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+.big .dood .a1{
+    width: 25%;
+    height: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    position: relative;
+}
+.big .dood .a1 .text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    background-image: linear-gradient(to top, rgba(0,0,0,0.7), rgba(255,255,255,0.1));
+    border-radius: 10px;
+}
+.big .dood .a1 .text p{
+    color: white;
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+}
+.big .dood .a1 .text:hover p{
+    color: #1e87f0;
+}
+.big .dood .a1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.big .tsaash{
+    width: 100%;
+    height: 40px;
+    background-color: #161616;
+    border-radius: 10px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(153, 153, 153, 0.8);
+    font-size: 0.9rem;
+    font-family: 'Roboto', sans-serif;
+}
+.big .tsaash:hover{
+    background-color: #00b3ff;
+    color: #fff;
+}
+.big .tsaash .text p{
+    color: rgba(153, 153, 153, 0.8);
+    font-size: 0.9rem;
+    font-family: 'Roboto', sans-serif;
+}
+.big .tsaash .text:hover p{
+    color: #fff;
+}
+.big .op{
+    width: 75%;
+    height: 300x;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.big .op img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.big .a1{
+    width: 100%;
+    height: 40px;
+    background-color: #1d1d1d;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.big .a1 p{
+    color: #999;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 40px;
+}
+.big .a1 .icon{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.big .a1 .icon i{
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 18px;
+}
+.big .a1 .icon:hover i{
+    color: #1e87f0;
+}
+.big .b1{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    gap: 20px;
+}
+.big .b1 .c1{
+    width: 16.6%;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+}
+.big .b1 .c1 .text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b1 .c1 .text:hover{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(180deg, rgba(0,0,0,0) 0,rgba(0,0,0,0.8) 100%);
+}
+.big .b1 .c1 .text p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 25px;
+    display: none;
+}
+.big .b1 .c1 .text:hover p{
+    color: #1e87f0;
+    display: block;
+}
+.big .b1 .c1 .text2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b1 .c1 .text2 p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 10px;
+    display: none;
+}
+.big .b1 .c1 .text2:hover p{
+    color: #999;
+    display: block;
+    font-size: 12px;
+}
+.big .b1 .c1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.big .a2{
+    width: 100%;
+    height: 40px;
+    background-color: #1d1d1d;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.big .a2 p{
+    color: #999;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 40px;
+}
+.big .a2 .icon{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.big .a2 .icon i{
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 18px;
+}
+.big .a2 .icon:hover i{
+    color: #1e87f0;
+}
+.big .b2{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    gap: 20px;
+}
+.big .b2 .c1{
+    width: 16.6%;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+}
+.big .b2 .c1 .text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b2 .c1 .text:hover{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(180deg, rgba(0,0,0,0) 0,rgba(0,0,0,0.8) 100%);
+}
+.big .b2 .c1 .text p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 25px;
+    display: none;
+}
+.big .b2 .c1 .text:hover p{
+    color: #1e87f0;
+    display: block;
+}
+.big .b2 .c1 .text2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b2 .c1 .text2 p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 10px;
+    display: none;
+}
+.big .b2 .c1 .text2:hover p{
+    color: #999;
+    display: block;
+    font-size: 12px;
+}
+.big .b2 .c1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.big .a3{
+    width: 100%;
+    height: 40px;
+    background-color: #1d1d1d;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.big .a3 p{
+    color: #999;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 40px;
+}
+.big .a3 .icon{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.big .a3 .icon i{
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 18px;
+}
+.big .a3 .icon:hover i{
+    color: #1e87f0;
+}
+.big .b3{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    gap: 20px;
+}
+.big .b3 .c1{
+    width: 16.6%;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+}
+.big .b3 .c1 .text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b3 .c1 .text:hover{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(180deg, rgba(0,0,0,0) 0,rgba(0,0,0,0.8) 100%);
+}
+.big .b3 .c1 .text p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 25px;
+    display: none;
+}
+.big .b3 .c1 .text:hover p{
+    color: #1e87f0;
+    display: block;
+}
+.big .b3 .c1 .text2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b3 .c1 .text2 p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 10px;
+    display: none;
+}
+.big .b3 .c1 .text2:hover p{
+    color: #999;
+    display: block;
+    font-size: 12px;
+}
+.big .b3 .c1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.big .a4{
+    width: 100%;
+    height: 40px;
+    background-color: #1d1d1d;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.big .a4 p{
+    color: #999;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 40px;
+}
+.big .a4 .icon{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.big .a4 .icon i{
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 18px;
+}
+.big .a4 .icon:hover i{
+    color: #1e87f0;
+}
+.big .b4{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    gap: 20px;
+}
+.big .b4 .c1{
+    width: 16.6%;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+}
+.big .b4 .c1 .text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b4 .c1 .text:hover{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(180deg, rgba(0,0,0,0) 0,rgba(0,0,0,0.8) 100%);
+}
+.big .b4 .c1 .text p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 25px;
+    display: none;
+}
+.big .b4 .c1 .text:hover p{
+    color: #1e87f0;
+    display: block;
+}
+.big .b4 .c1 .text2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b4 .c1 .text2 p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 10px;
+    display: none;
+}
+.big .b4 .c1 .text2:hover p{
+    color: #999;
+    display: block;
+    font-size: 12px;
+}
+.big .b4 .c1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.big .a5{
+    width: 100%;
+    height: 40px;
+    background-color: #1d1d1d;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.big .a5 p{
+    color: #999;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 40px;
+}
+.big .a5 .icon{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.big .a5 .icon i{
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 18px;
+}
+.big .a5 .icon:hover i{
+    color: #1e87f0;
+}
+.big .b5{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    gap: 20px;
+}
+.big .b5 .c1{
+    width: 16.6%;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+}
+.big .b5 .c1 .text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b5 .c1 .text:hover{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(180deg, rgba(0,0,0,0) 0,rgba(0,0,0,0.8) 100%);
+}
+.big .b5 .c1 .text p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 25px;
+    display: none;
+}
+.big .b5 .c1 .text:hover p{
+    color: #1e87f0;
+    display: block;
+}
+.big .b5 .c1 .text2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b5 .c1 .text2 p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 10px;
+    display: none;
+}
+.big .b5 .c1 .text2:hover p{
+    color: #999;
+    display: block;
+    font-size: 12px;
+}
+.big .b5 .c1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.big .a6{
+    width: 100%;
+    height: 40px;
+    background-color: #1d1d1d;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.big .a6 p{
+    color: #999;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 40px;
+}
+.big .a6 .icon{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.big .a6 .icon i{
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 18px;
+}
+.big .a6 .icon:hover i{
+    color: #1e87f0;
+}
+.big .b6{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    gap: 20px;
+}
+.big .b6 .c1{
+    width: 16.6%;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+}
+.big .b6 .c1 .text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b6 .c1 .text:hover{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(180deg, rgba(0,0,0,0) 0,rgba(0,0,0,0.8) 100%);
+}
+.big .b6 .c1 .text p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 25px;
+    display: none;
+}
+.big .b6 .c1 .text:hover p{
+    color: #1e87f0;
+    display: block;
+}
+.big .b6 .c1 .text2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b6 .c1 .text2 p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 10px;
+    display: none;
+}
+.big .b6 .c1 .text2:hover p{
+    color: #999;
+    display: block;
+    font-size: 12px;
+}
+.big .b6 .c1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.big .a7{
+    width: 100%;
+    height: 40px;
+    background-color: #1d1d1d;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.big .a7 p{
+    color: #999;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 40px;
+}
+.big .a7 .icon{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.big .a7 .icon i{
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 18px;
+}
+.big .a7 .icon:hover i{
+    color: #1e87f0;
+}
+.big .b7{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    gap: 20px;
+}
+.big .b7 .c1{
+    width: 16.6%;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+}
+.big .b7 .c1 .text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b7 .c1 .text:hover{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(180deg, rgba(0,0,0,0) 0,rgba(0,0,0,0.8) 100%);
+}
+.big .b7 .c1 .text p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 25px;
+    display: none;
+}
+.big .b7 .c1 .text:hover p{
+    color: #1e87f0;
+    display: block;
+}
+.big .b7 .c1 .text2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b7 .c1 .text2 p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 10px;
+    display: none;
+}
+.big .b7 .c1 .text2:hover p{
+    color: #999;
+    display: block;
+    font-size: 12px;
+}
+.big .b7 .c1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.big .a8{
+    width: 100%;
+    height: 40px;
+    background-color: #1d1d1d;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.big .a8 p{
+    color: #999;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 40px;
+}
+.big .a8 .icon{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.big .a8 .icon i{
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 18px;
+}
+.big .a8 .icon:hover i{
+    color: #1e87f0;
+}
+.big .b8{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    gap: 20px;
+}
+.big .b8 .c1{
+    width: 16.6%;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+}
+.big .b8 .c1 .text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b8 .c1 .text:hover{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(180deg, rgba(0,0,0,0) 0,rgba(0,0,0,0.8) 100%);
+}
+.big .b8 .c1 .text p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 25px;
+    display: none;
+}
+.big .b8 .c1 .text:hover p{
+    color: #1e87f0;
+    display: block;
+}
+.big .b8 .c1 .text2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b8 .c1 .text2 p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 10px;
+    display: none;
+}
+.big .b8 .c1 .text2:hover p{
+    color: #999;
+    display: block;
+    font-size: 12px;
+}
+.big .b8 .c1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.big .a9{
+    width: 100%;
+    height: 40px;
+    background-color: #1d1d1d;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.big .a9 p{
+    color: #999;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 40px;
+}
+.big .a9 .icon{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.big .a9 .icon i{
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 18px;
+}
+.big .a9 .icon:hover i{
+    color: #1e87f0;
+}
+.big .b9{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    gap: 20px;
+}
+.big .b9 .c1{
+    width: 16.6%;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+}
+.big .b9 .c1 .text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b9 .c1 .text:hover{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(180deg, rgba(0,0,0,0) 0,rgba(0,0,0,0.8) 100%);
+}
+.big .b9 .c1 .text p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 25px;
+    display: none;
+}
+.big .b9 .c1 .text:hover p{
+    color: #1e87f0;
+    display: block;
+}
+.big .b9 .c1 .text2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b9 .c1 .text2 p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 10px;
+    display: none;
+}
+.big .b9 .c1 .text2:hover p{
+    color: #999;
+    display: block;
+    font-size: 12px;
+}
+.big .b9 .c1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.big .a10{
+    width: 100%;
+    height: 40px;
+    background-color: #1d1d1d;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.big .a10 p{
+    color: #999;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 40px;
+}
+.big .a10 .icon{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.big .a10 .icon i{
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 18px;
+}
+.big .a10 .icon:hover i{
+    color: #1e87f0;
+}
+.big .b10{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    gap: 20px;
+}
+.big .b10 .c1{
+    width: 16.6%;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+}
+.big .b10 .c1 .text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b10 .c1 .text:hover{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(180deg, rgba(0,0,0,0) 0,rgba(0,0,0,0.8) 100%);
+}
+.big .b10 .c1 .text p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 25px;
+    display: none;
+}
+.big .b10 .c1 .text:hover p{
+    color: #1e87f0;
+    display: block;
+}
+.big .b10 .c1 .text2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+}
+.big .b10 .c1 .text2 p{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    padding-bottom: 10px;
+    display: none;
+}
+.big .b10 .c1 .text2:hover p{
+    color: #999;
+    display: block;
+    font-size: 12px;
+}
+.big .b10 .c1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.tugsgul{
+    width: 100%;
+    height: 61px;
+    display: flex;
+    flex-direction: row-reverse;
+    border-bottom: 1px solid #393939;
+    border-top: 1px solid #393939;
+    margin-top: 20px;
+}
+.tugsgul .logo{
+    width: 10%;
+    height: 100%;
+    display: flex;
+}
+.tugsgul .logo .logo-item{
+    width: 33%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left:1px solid #393939;
+}
+.tugsgul .logo .logo-item i{
+    color: #666;
+    font-size: 20px;
+}
+.tugsgul .logo .logo-item:hover i{
+    color: #1e87f0;
+}
+.end{
+    text-align: center;
+    line-height: 70px;
+    padding: 0 10px;
+    color: #999;
+    font-size: 0.9rem;
+    font-family: 'Roboto', sans-serif;
+}
